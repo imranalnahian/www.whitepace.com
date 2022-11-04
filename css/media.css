@@ -1,0 +1,764 @@
+/* Small devices (mobile phones, 576px and up) */
+@media (max-width: 575px) {
+
+    /* menu part */
+    .logo img {
+        width: 150px;
+    }
+
+    .btn-coustome {
+        padding: 5px 20px;
+        margin-left: 16px;
+        margin-top: 8px;
+    }
+
+    /* banner start */
+    .banner-img-sec {
+        display: none;
+    }
+
+    .banner-text-sec {
+        margin-top: 20px;
+        margin-bottom: 58px;
+        text-align: center;
+    }
+
+    .banner-text-sec h1 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+
+    .banner-text-sec p {
+        margin-top: 3px;
+    }
+
+    .btn-banner {
+        margin-top: 6px;
+        padding: 20px 40px;
+        font-size: 18px;
+    }
+
+    /* common sec */
+
+    .scnd-banner-sec {
+        margin: 40px 0;
+    }
+
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: center;
+        margin-top: 50px !important;
+    }
+
+    .scnd-banner-text-sec h1 {
+        font-size: 36px;
+        line-height: 43px;
+    }
+
+    .scnd-banner-text-sec p {
+        margin-top: 11px;
+        font-size: 18px;
+        padding: 0 7px;
+    }
+
+    /* slide start */
+
+    .slide {
+        margin-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .heading-text {
+        padding-top: 60px;
+    }
+
+    .heading-text h1 {
+        font-size: 36px;
+        line-height: 43px;
+    }
+
+    .heading-text p {
+        margin-top: 24px;
+        padding: 0;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .price-list__1 p {
+        font-size: 16px;
+    }
+
+    .btn-slide {
+        margin-top: 20px;
+        padding: 16px 40px;
+        font-size: 18px;
+    }
+
+    /* scnd banner start */
+
+
+    .scnd-banner-text-sec h1 {
+        font-size: 36px !important;
+        line-height: 44px !important;
+    }
+
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    .scnd-banner-img-sec {
+        margin-top: 55px;
+    }
+
+
+    /* sponsor part */
+
+    .sponsor-heading {
+        text-align: center;
+        margin-bottom: 0px;
+    }
+
+    .cus-cls {
+        display: flex;
+        justify-content: center;
+    }
+
+    .sponsor-heading h1 {
+        margin-top: 64px;
+        font-size: 36px;
+        line-height: 43px;
+    }
+
+    .spondor-content a {
+        margin: 30px;
+    }
+
+    .cus-w {
+        width: 200px;
+    }
+
+    .sponsor-heading h1 {
+        margin-top: 100px;
+        margin-bottom: 50px;
+        font-size: 36px;
+        line-height: 43px;
+    }
+
+    .sponsor-sec {
+        padding-bottom: 20px;
+    }
+
+    /* taskey start */
+
+    .taskey {
+        padding: 0;
+    }
+
+    .me-5 {
+        margin-right: 0 !important;
+    }
+
+    .taskey-content {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .taskey-content h1 {
+        font-size: 36px;
+        line-height: 43px;
+    }
+
+    .taskey-content p {
+        font-size: 18px;
+    }
+
+    /* clint sec */
+
+    .clints-heading h1 {
+        margin-bottom: 40px;
+        font-size: 34px;
+        line-height: 43px;
+    }
+
+    .car-cus hr {
+        margin-bottom: 24px;
+    }
+
+    .cul-content h2 {
+        margin: 11px 0 0 0;
+    }
+
+    .cul-content p {
+        margin: 0;
+    }
+
+    .cus-mt {
+        margin-top: 30px !important;
+    }
+
+    .cus-footer {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .cus-footer img {
+        margin-bottom: 15px;
+    }
+
+    .cus-footer p {}
+
+    .scnd-footer {
+        padding: 50px 0 0px;
+    }
+
+    .footer-text {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-text span {
+        font-size: 10px;
+    }
+
+    .footer-link {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 575px) and (max-width: 767.98px) {
+
+    /* menu start */
+    .logo img {
+        width: 200px;
+    }
+
+    .btn-coustome {
+        margin-left: 16px;
+        margin-top: 8px;
+    }
+
+    /* banner start */
+    .banner-text-sec {
+        margin-top: 60px;
+        margin-bottom: 60px;
+        text-align: center;
+    }
+
+    .banner-text-sec h1 {
+        font-size: 54px;
+        line-height: 65px;
+    }
+
+    .btn-banner {
+        padding: 20px 40px;
+    }
+
+    .banner-img-sec img {
+        width: 550px;
+        height: 360px;
+    }
+
+    /* scnd banner start */
+    .scnd-banner-img-sec {
+        width: 550px;
+        height: 360px;
+    }
+
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .scnd-banner-text-sec h1 {
+        font-size: 54px;
+        line-height: 65px;
+    }
+
+    .btn-banner {
+        margin-top: 15px;
+    }
+
+    .scnd-banner-sec {
+        margin: 85px 0 0px;
+    }
+
+    /* slide sec start*/
+
+    .slide {
+        margin-top: 60px;
+        padding-bottom: 70px;
+    }
+
+    .heading-text h1 {
+        font-size: 50px;
+        line-height: 63px;
+    }
+
+    .heading-text p {
+        padding: 0;
+    }
+
+    /* scnd banner start */
+
+    .scnd-banner-sec {
+        margin: 0px 0 0px;
+    }
+
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .scnd-banner-img-sec img {
+        margin-top: 70px;
+    }
+
+    .scnd-banner-text-sec h1 {
+        font-size: 54px;
+        line-height: 65px;
+        margin-top: 120px;
+    }
+
+    /* sponsor sec start */
+
+
+    .sponsor-heading {
+        text-align: center;
+        margin-bottom: 0px;
+    }
+
+    .cus-cls {
+        display: flex;
+        justify-content: center;
+    }
+
+    .sponsor-heading h1 {
+        margin-top: 64px;
+        font-size: 36px;
+        line-height: 43px;
+    }
+
+    .spondor-content a {
+        margin: 30px;
+    }
+
+    .cus-w {
+        width: 200px;
+    }
+
+    .sponsor-heading h1 {
+        margin-top: 100px;
+        margin-bottom: 50px;
+        font-size: 54px;
+        line-height: 63px;
+    }
+
+    .sponsor-sec {
+        padding-bottom: 20px;
+    }
+
+    /* taskey start */
+    .taskey {
+        padding: 0;
+    }
+
+    .me-5 {
+        margin-right: 0 !important;
+    }
+
+    .taskey-content {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .taskey-content h1 {
+        font-size: 46px;
+        line-height: 63px;
+    }
+
+    .taskey-content p {
+        font-size: 18px;
+    }
+
+    /* sponsor part start */
+
+    .car-cus {
+
+        margin: 20px 40px;
+    }
+
+    /* footer start */
+
+    .cus-footer {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .cus-footer img {
+        margin-bottom: 15px;
+    }
+
+    .cus-footer p {}
+
+    .scnd-footer {
+        padding: 50px 0 0px;
+    }
+
+    .footer-text {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-text span {
+        font-size: 18px;
+    }
+
+    .footer-link {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* menu sec */
+    .btn-coustome {
+        margin-left: 16px;
+        margin-top: 8px;
+    }
+
+    /* banner start */
+
+    .banner-text-sec h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .banner-text-sec p {
+        margin-top: 0px;
+    }
+
+    .banner-text-sec {
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .banner-img-sec {
+        margin-top: 50;
+    }
+
+    /* scnd banner start*/
+
+    .scnd-banner-text-sec h1 {
+        font-size: 54px !important;
+        line-height: 60px !important;
+    }
+
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+    }
+
+    .scnd-banner-text-sec p {
+        margin-top: 15px;
+    }
+
+    .btn-banner {
+        margin-top: 10px;
+    }
+
+    .scnd-banner-sec {
+        margin: 56px 0 0px;
+    }
+
+
+    /* slide start */
+    .slide {
+        margin-top: 50px;
+    }
+
+    .price-list__1 {
+        padding: 15px 20px 28px;
+    }
+
+    .slide-content {
+        margin-top: 0;
+    }
+
+    .heading-text p {
+        font-size: 17px;
+    }
+
+    /* scnd sec start */
+
+    .scnd-banner-text-sec h1 {
+        font-size: 54px !important;
+        line-height: 60px !important;
+    }
+
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+        margin-top: 0px;
+    }
+
+    .scnd-banner-img-sec {
+        margin-top: 55px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .scnd-banner-img-sec img {
+        width: 80% !important;
+    }
+
+    /* sponsor sec start */
+
+    .sponsor-sec {
+        margin-top: 100px;
+    }
+
+    .cus-w {
+        width: 100%;
+    }
+
+    .cus-md-w {
+        width: 41%;
+    }
+
+    .justify-content-between {
+        justify-content: space-between !important;
+        align-items: center !important;
+    }
+
+    .sponsor-sec {
+        padding-bottom: 50px;
+    }
+
+    /* taskey sec star */
+
+    .taskey {
+        padding: 0;
+    }
+
+    .me-5 {
+        margin-right: 0 !important;
+    }
+
+    .taskey-content {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .taskey-content h1 {
+        font-size: 36px;
+        line-height: 43px;
+        margin-bottom: 20px;
+    }
+
+    .taskey-content p {
+        font-size: 17px;
+    }
+
+    /* sponsor sec start */
+
+    .car-cus {
+        padding: 20px;
+    }
+
+    .car-cus hr {
+        margin-bottom: 20px;
+    }
+
+    .cul-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .cul-content h2 {
+        line-height: 16px;
+        margin-top: 23px;
+    }
+
+    /* footer sec start */
+
+    .scnd-footer-content {
+        text-align: center;
+    }
+
+    .cus-footer {
+        margin-bottom: 25px;
+    }
+
+    .scnd-footer {
+        padding: 100px 0 28px;
+    }
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* menu start */
+
+    .btn-coustome {
+        padding: 7px 22px;
+    }
+
+    /* banner sec */
+
+    .banner-text-sec {
+        margin-top: 78px;
+        margin-bottom: 75px;
+    }
+
+    .banner-text-sec h1 {
+        font-size: 55px;
+        line-height: 66px;
+    }
+
+    .banner-img-sec {
+        margin-top: 89px;
+    }
+
+    /* scnd banner start */
+
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: start;
+    }
+
+    .scnd-banner-text-sec h1 {
+        line-height: 70px;
+    }
+
+    .text-center {
+        align-items: center;
+    }
+
+    /* sponsor sec start */
+
+    .car-cus {
+        padding: 20px;
+    }
+
+    .car-cus hr {
+        margin-bottom: 20px;
+    }
+
+    .cul-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .cul-content h2 {
+        line-height: 16px;
+        margin-top: 23px;
+    }
+
+    .cus-w {
+        width: 90%;
+    }
+
+    .cus-cls {}
+
+    .justify-content-between {
+        justify-content: space-between !important;
+        align-items: center;
+    }
+
+
+    /* footer start */
+
+    .scnd-footer {
+        padding: 50px 0 10px;
+    }
+
+    .cus-footer {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .scnd-footer-content p {
+        margin-top: 10px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* banner sec start */
+    .banner-text-sec {
+        margin-top: 105px;
+        margin-bottom: 120px;
+    }
+
+    /* scnd banner start */
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: start;
+    }
+
+    /* sponsor sec start */
+
+    .justify-content-between {
+        align-items: center;
+    }
+
+    .cus-w {
+        width: 90%;
+    }
+
+    /* footer start */
+    .scnd-footer {
+        padding: 50px 0 50px;
+    }
+
+    .cus-footer {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .scnd-footer-content p {
+        margin-top: 10px;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+    /* scnd banner start */
+    .scnd-banner-text-sec {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: start;
+    }
+
+    /* footer start */
+    .scnd-footer {
+        padding: 50px 0 50px;
+    }
+
+    .cus-footer {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .scnd-footer-content p {
+        margin-top: 10px;
+    }
+
+}
